@@ -1,5 +1,5 @@
 export const personalInfo = {
-  name: 'Hiroshi Ishii',
+  name: 'Kaiyi HU',
   profilePicture: '/profile.jpg', //optional
   role: 'Professor',
   university: 'MIT Media Lab',
